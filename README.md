@@ -1,5 +1,5 @@
 <div id="SealedSaucer" align="center">
-  <h3> Hi there, I'm <a href="https://azame.site">AzameDsc</a> 😈 </h3>
+  <h3>I'm<a href="https://azame.site">AzameDsc</a> 😈 </h3>
   <br>
   <a href="https://discord.com/users/1074362730951221298"><img height="80px" src="https://discord.c99.nl/widget/theme-5/1074362730951221298.png"/></a>
   <br><br>
